@@ -21,7 +21,7 @@ A collection for awesome reposities that helps with Amazon Kindle or any kindle 
 * [zhihuToKindle](https://github.com/Rockyzsu/zhihuToKindle) - An app to send answers from zhihu.com.
 * [hcc](https://github.com/ystyle/hcc) - An online tool for convert [Hcomic](https://c-upp.com/) detail page's images into MOBI format e-books.
 
-## Books (Epubs)
+## Website Books (Epubs)
 
 ### Spanish
 
@@ -32,7 +32,7 @@ A collection for awesome reposities that helps with Amazon Kindle or any kindle 
 
 - https://oceanofpdf.com
 
-## Manga Books (cbz)
+## Website Manga (cbz)
 
 ### English
 
@@ -40,7 +40,14 @@ A collection for awesome reposities that helps with Amazon Kindle or any kindle 
 
 ### Spanish
 
-## Comic books (cbz)
+## Website Comic(cbz)
 
+### English
 - https://newcomic.info/
+
+
+## Books I'm reading
+
+- [x] Haruki Murakami - After Dark
+
 

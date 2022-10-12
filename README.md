@@ -1,4 +1,4 @@
-# Awesome Kindle [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome Kindle
 A collection for awesome reposities that helps with Amazon Kindle or any kindle you use.
 
 ## Identify your Amazon Kindle
@@ -51,3 +51,7 @@ A collection for awesome reposities that helps with Amazon Kindle or any kindle 
 - [x] Haruki Murakami - After Dark
 
 
+## Website of books
+
+- https://www.goodreads.com/shelf/show/must-read
+- https://cabaltc.com/10-mejores-sagas-fantasia/
